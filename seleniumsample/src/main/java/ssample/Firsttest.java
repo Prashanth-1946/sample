@@ -1,7 +1,7 @@
 package ssample;
 
 import org.testng.annotations.Test;
-//This is firsttest
+//This is first test
 public class Firsttest 
 {
 	@Test
